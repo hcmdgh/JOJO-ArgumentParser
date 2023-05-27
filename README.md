@@ -1,5 +1,5 @@
 # JOJO-ArgumentParser
-Make "argparse" easier!
+Make python built-in library "argparse" easier!
 
 # Quickstart 
 
